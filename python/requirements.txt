@@ -1,0 +1,7 @@
+psycopg2
+mpmath
+numpy
+redis
+requests
+scipy
+tornado==4.0.2
